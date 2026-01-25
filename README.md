@@ -1,6 +1,7 @@
 # clothingapp
 
-A new Flutter project.
+A new Flutter E-Commerce project.
+Customer can order products.Admin can list products and can manage orders.
 
 ## Getting Started
 
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+https://github.com/user-attachments/assets/09095cb4-0cad-46c7-bc6b-a0f14d438a83
+
